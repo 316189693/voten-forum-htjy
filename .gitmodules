@@ -1,0 +1,7 @@
+[submodule "laradock"]
+	path = laradock
+	url = https://github.com/Laradock/laradock.git
+[submodule "unis-forum-docker"]
+	path = unis-forum-docker
+	url = https://htjy@bitbucket.org/logisticsteam-dev/unis-forum-docker.git
+	branch = develop
